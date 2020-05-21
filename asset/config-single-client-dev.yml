@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: config-single-dev-server  # 应用名称
