@@ -1,3 +1,5 @@
-spring:
-  application:
-    name: config-eureka-prod-server  # 应用名称
+data:
+  test1:
+    name: config-eureka-dev-server  # 应用名称
+  test2:
+    password: abc # 应用名称
